@@ -42,6 +42,6 @@ This project aims to analyze and predict stock prices of **Yes Bank** using mach
   - `pandas`, `numpy`
   - `matplotlib`, `seaborn`, `plotly`
   - `scikit-learn`
-  - `statsmodels` or `tensorflow/keras` (if used)
+  - `statsmodels`
 
 ---
